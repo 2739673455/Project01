@@ -34,12 +34,12 @@ delta_k = 1e-8
 epoch = 0
 k1 = k.copy()
 k2 = k.copy()
-# while True:
-#     loss1 = func1()
-#     loss2 = func2()
-#     if loss1 < 1e-5 and loss2 < 1e-5:
-#         print(loss1, "\t", loss2, "\t", epoch)
-#         break
-#     epoch += 1
-#     if epoch % 10000 == 0:
-#         print(loss1, "\t", loss2, "\t", epoch)
+while True:
+    loss1 = func1()
+    loss2 = func2()
+    if loss1 < 1e-5 and loss2 < 1e-5:
+        print(loss1, "\t", loss2, "\t", epoch)
+        break
+    epoch += 1
+    if epoch % 1000 == 0:
+        print(loss1, "\t", loss2, "\t", epoch)
