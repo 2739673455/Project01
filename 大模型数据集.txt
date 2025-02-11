@@ -1,48 +1,47 @@
-1.下载数据集
-    电商
-        淘宝直播多模态视频商品检索数据集
-            淘宝穿衣搭配数据集：从以上行为、文本和图像数据中挖掘穿衣搭配模型，为用户提供个性化、优质的、专业的穿衣搭配方案
-        https://tianchi.aliyun.com/dataset/75730
+电商
+    淘宝直播多模态视频商品检索数据集
+        淘宝穿衣搭配数据集：从以上行为、文本和图像数据中挖掘穿衣搭配模型，为用户提供个性化、优质的、专业的穿衣搭配方案
+    https://tianchi.aliyun.com/dataset/75730
 
-        大规模风险商品检测数据集
-        https://tianchi.aliyun.com/dataset/144810
+    大规模风险商品检测数据集
+    https://tianchi.aliyun.com/dataset/144810
 
-        社交图谱动态链接预测数据集
-        https://tianchi.aliyun.com/dataset/162145
+    社交图谱动态链接预测数据集
+    https://tianchi.aliyun.com/dataset/162145
 
-        阿里移动推荐算法数据集
-        https://tianchi.aliyun.com/dataset/46
+    阿里移动推荐算法数据集
+    https://tianchi.aliyun.com/dataset/46
 
-        天猫推荐数据集Rec-Tmall
-        https://tianchi.aliyun.com/dataset/140281
+    天猫推荐数据集Rec-Tmall
+    https://tianchi.aliyun.com/dataset/140281
 
-        淘宝母婴购物数据集
-        https://tianchi.aliyun.com/dataset/45
+    淘宝母婴购物数据集
+    https://tianchi.aliyun.com/dataset/45
 
-        OpenBG Benchmark：大规模开放数字商业知识图谱评测基准
-        https://tianchi.aliyun.com/dataset/122271
+    OpenBG Benchmark：大规模开放数字商业知识图谱评测基准
+    https://tianchi.aliyun.com/dataset/122271
 
-        电商NER数据集
-        https://tianchi.aliyun.com/dataset/108758?spm=a2c22.12282016.0.0.432a4f03r29vv9
+    电商NER数据集
+    https://tianchi.aliyun.com/dataset/108758?spm=a2c22.12282016.0.0.432a4f03r29vv9
 
-    金融
-        某银行个人征信数据集
-        https://tianchi.aliyun.com/dataset/151714
+金融
+    某银行个人征信数据集
+    https://tianchi.aliyun.com/dataset/151714
 
-    新闻文本分类
-        头条38w条数据
-        https://github.com/aceimnorstuvwxz/toutiao-text-classfication-dataset
+新闻文本分类
+    头条38w条数据
+    https://github.com/aceimnorstuvwxz/toutiao-text-classfication-dataset
 
-        文本分类数据和案例
-        https://github.com/lonePatient/BERT-NER-Pytorch
+    文本分类数据和案例
+    https://github.com/lonePatient/BERT-NER-Pytorch
 
-    医疗
-        CHIP2021-医疗对话临床发现阴阳性判别数据集
-        https://tianchi.aliyun.com/dataset/108859
+医疗
+    CHIP2021-医疗对话临床发现阴阳性判别数据集
+    https://tianchi.aliyun.com/dataset/108859
 
-        中文医疗对话数据集
-        https://tianchi.aliyun.com/dataset/92110
+    中文医疗对话数据集
+    https://tianchi.aliyun.com/dataset/92110
 
-    在线教育
-        分析学习平台教育的学生学习情况，并做出分析以及学生学习情况的预测和维护
-        https://tianchi.aliyun.com/dataset/172411
+在线教育
+    分析学习平台教育的学生学习情况，并做出分析以及学生学习情况的预测和维护
+    https://tianchi.aliyun.com/dataset/172411
