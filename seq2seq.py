@@ -1,5 +1,4 @@
 import random
-import csv
 from datetime import datetime, timedelta
 import pandas as pd
 
