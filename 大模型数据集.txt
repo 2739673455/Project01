@@ -32,8 +32,11 @@
     头条38w条数据
     https://github.com/aceimnorstuvwxz/toutiao-text-classfication-dataset
 
-    文本分类数据和案例
+    命名实体识别案例
     https://github.com/lonePatient/BERT-NER-Pytorch
+    
+    新闻摘要
+    https://github.com/liucongg/GPT2-NewsTitle?tab=readme-ov-file
 
 医疗
     CHIP2021-医疗对话临床发现阴阳性判别数据集
