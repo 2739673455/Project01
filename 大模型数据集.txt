@@ -45,6 +45,9 @@
     中文医疗对话数据集
     https://tianchi.aliyun.com/dataset/92110
 
+    中文医疗问答数据集
+    https://github.com/Toyhom/Chinese-medical-dialogue-data
+
 在线教育
     分析学习平台教育的学生学习情况，并做出分析以及学生学习情况的预测和维护
     https://tianchi.aliyun.com/dataset/172411
